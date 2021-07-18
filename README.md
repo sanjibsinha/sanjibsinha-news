@@ -1,6 +1,6 @@
 # A WordPress and Bootstrap Application that runs as
 
-- [My Main Website](https://sanjibsinha.com)
+- [A Bengali News Portal that tells story in a different way](https://sanjibsinha.com/news/)
 
 ## I've developed this site on a free Bootstrap theme
 
